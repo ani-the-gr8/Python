@@ -5,7 +5,6 @@ var = "Data in a variable"
 print (var)
 
 # Type function: Shows the type of a data.
-
 print (type("hi"))
 print (type("71"))
 print (type(71))
