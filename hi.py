@@ -1,1 +1,1 @@
-print(type(True))
+print("HI!")
