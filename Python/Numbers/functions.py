@@ -23,3 +23,12 @@ def power_function():
     result_2 = pow(2, 3, 5) # Equivalent to (2**3) % 5
     print (result_2) #3
 
+def comparison_operators():
+    print(3 > 4) # False
+    print(3 < 4) # True
+    print(3 == 4) # False
+    print(4 == 4) # True
+    print(3 != 4) # True
+    print(3 >= 4) # False
+    print(3 <= 4) # True
+
